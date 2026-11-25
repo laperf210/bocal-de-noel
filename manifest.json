@@ -1,0 +1,14 @@
+{
+  "name": "Le bocal de Noël",
+  "short_name": "Bocal de Noël",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#a3111c",
+  "theme_color": "#9e0f1a",
+  "lang": "fr",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
